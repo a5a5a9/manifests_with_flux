@@ -1,0 +1,1 @@
+{"jobID":"d43fa18e-6d2a-dc48-2fad-b9f6a53c9fbb","spec":{"type":"policy","cause":{"Message":"","User":"Adal Andrade \u003cadalandrade5@gmail.com\u003e"},"spec":{"lasample:deployment/hello":{"add":{"automated":"true"},"remove":{}}}},"result":null}
